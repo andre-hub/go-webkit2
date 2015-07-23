@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/andre-hub/go-webkit2"
 	"github.com/andre-hub/gotk3/gtk"
-	"github.com/andre-hub/gotk3/webkit2"
 
 	"log"
 )
