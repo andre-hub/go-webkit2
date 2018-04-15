@@ -11,7 +11,7 @@ import (
 	"unsafe"
 
 	//"github.com/andre-hub/gotk3/gtk"
-	"github.com/andre-hub/gotk3/glib"
+	"github.com/gotk3/gotk3/glib"
 )
 
 func init() {
